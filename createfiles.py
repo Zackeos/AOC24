@@ -1,6 +1,3 @@
-#make 24 copies of the file day.py and name them day1.py, day2.py, day3.py, etc.
-
-import os
 import shutil
 
 for i in range(2, 25+1):

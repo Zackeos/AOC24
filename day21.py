@@ -1,7 +1,5 @@
 from aocd import get_data
 from aocd import submit
-from datetime import datetime
-today = datetime.today()
 day = 21
 year = 2024
 data = get_data(day=day, year=year).split('\n')
