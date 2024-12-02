@@ -51,7 +51,7 @@ print("Part 2:", part2())
 
 
 
-print("Part 2 better:", part2_better())
+# print("Part 2 better:", part2_better())
 
 # submit(part2(), part="b", day=day, year=year)
 
