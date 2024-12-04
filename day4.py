@@ -3,7 +3,6 @@ from aocd import submit
 day = 4
 year = 2024
 data = get_data(day=day, year=year).split('\n')
-# print(data[:10])
 
 # Part 1
 
