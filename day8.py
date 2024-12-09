@@ -93,6 +93,7 @@ def part2():
     return len(antinodes)
 
 print("Part 2:", part2())
+
 submit(part2(), part="b", day=day, year=year)
 
 
